@@ -1,6 +1,6 @@
 # plus_app
 
-A new Flutter project.
+App que suma 2 numeros.
 
 ## Getting Started
 
